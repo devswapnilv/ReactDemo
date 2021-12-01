@@ -1,0 +1,90 @@
+.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.css-bshv44-MuiButtonBase-root-MuiListItem-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 0;
+    margin-bottom: 15px;
+  }
+  .sidemenuList .MuiListItemIcon-root .MuiSvgIcon-root{
+    width: 1.5em;
+    height: 1.5em;
+    fill: #9E9E9E;
+  }
+  
+  .sidemenuList .MuiListItemIcon-root {
+    min-width: 0;
+  }
+  
+  .MuiListItemText-root span {
+    font-size: 12px;
+    margin-top: -10px;
+    color: #9E9E9E;
+  }
+  .css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+    display: none;
+  }
+  header.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionFixed.mui-fixed.css-19z1ozs-MuiPaper-root-MuiAppBar-root{
+    z-index: 1;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    background: #616161 !important;
+  }
+  .MuiDrawer-paperAnchorLeft hr {
+    display: none;
+  }
+  header.MuiPaper-elevation {
+    background: #EEEEEE;
+  }
+  .Mui-selected .MuiListItemIcon-root .MuiSvgIcon-root {
+    fill: #FFC107 !important;
+  }
+  .Mui-selected .MuiListItemText-root span {
+    color: #FFC107 !important;
+  }
+  .MuiTypography-h6 {
+    color: black;
+    font-weight: bolder !important;
+    width: 130px;
+    text-align: left;
+  }
+  .MuiGrid-item {
+    display: flex;
+    align-items: center;
+  }
+  .App {
+    background: #EEEEEE;
+  }
+  .searchIcon {
+    border-left: 1px solid #c2bebe !important;
+    border-radius: unset !important;
+  }
+  .dateDiv svg {
+    fill: #9E9E9E;
+    font-size: 18px;
+    margin-right: 3px;
+  }
+  .dateDiv {
+      display: flex;
+      color: #9E9E9E;
+      align-items: center;
+  }
+  .dateDiv .time{
+    color: #000;
+  }
+  span.MuiButton-label {
+    font-size: 12px;
+    text-transform: capitalize;
+  }
+  .arrowIcon {
+    width: 0.7em;
+    height: 0.7em;
+  }
+  .mainContainer {
+    display: flex;
+    width: 88%;
+    margin: 0 auto;
+    margin-top: -3%;
+  }
+ 
